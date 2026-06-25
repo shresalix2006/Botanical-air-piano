@@ -705,7 +705,7 @@ export default function App() {
             Air <span className="text-rose-700 font-serif font-bold">Piano</span>
           </h1>
           <p className="text-xs md:text-sm serif-italic text-stone-500 mt-2 uppercase tracking-widest">
-            Pressed Botanical Specimen • No. 0422
+            Botanical Melodies
           </p>
         </div>
 
