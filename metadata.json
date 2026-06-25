@@ -1,0 +1,8 @@
+{
+  "name": "Botanical Air Piano",
+  "description": "An antique, botanical-themed air piano. Move your hand to select notes and pinch your thumb and finger together to play them. Watch hand-drawn flowers bloom and petals fall as you make music.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
